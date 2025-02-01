@@ -1,7 +1,8 @@
-package com.mxvier.musicplayer
+package com.mxvier.musicplayer.presentation.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mxvier.musicplayer.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
